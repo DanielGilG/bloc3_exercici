@@ -1,0 +1,10 @@
+1- git init repo local
+2- GitHub crear repo
+3- Generar clave SSH "ssh-keygen -t rsa -b 4096"
+4- git remote add "enlace del repo"
+5- git push -u "remot" "branca" (origin main)
+	es una referencia que apunta a la rama remota
+
+Opcionales---------------------
+
+6- git clone "enlace del repo" "dirección de copia"
