@@ -3,7 +3,10 @@
 3- Generar clave SSH "ssh-keygen -t rsa -b 4096"
 4- git remote add origin "enlace del repo"
 5- git push -u "remot" "branca" (origin main)
-	Asociación entre ramas local y remota.	
+	Asociación entre ramas local y remota.(enlace)
+
+6- git fetch
+7- git pull (--rebase)
 
 Opcionales---------------------
 
